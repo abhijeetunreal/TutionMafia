@@ -46,7 +46,7 @@ const TrialModal = ({ isOpen, onClose }) => {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <img
-                src="/images/tution/mascot_student_light.png"
+                src="./images/tution/mascot_student_light.png"
                 alt="Tuition Mafia Mascot"
                 className="w-12 h-12 object-contain"
               />

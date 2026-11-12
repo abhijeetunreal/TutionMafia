@@ -46,16 +46,16 @@ const Scholar = () => {
         </p>
 
         <div className="scholar-2">
-          <img src="/images/scholar-2.webp" alt="Creative Collaborative Lab" />
+          <img src="./images/scholar-2.webp" alt="Creative Collaborative Lab" />
         </div>
       </div>
 
       <div className="space-y-5 mt-96 img-box">
         <div className="scholar-1">
-          <img src="/images/scholar-1.webp" alt="Modern Student Focus" />
+          <img src="./images/scholar-1.webp" alt="Modern Student Focus" />
         </div>
         <div className="scholar-3">
-          <img src="/images/scholar-3.webp" alt="High-Speed Learning Sprint" />
+          <img src="./images/scholar-3.webp" alt="High-Speed Learning Sprint" />
         </div>
       </div>
     </section>

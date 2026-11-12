@@ -96,12 +96,12 @@ const Hero = () => {
     <section className="hero-section" id="hero">
       <div className="size-full mask-wrapper">
         <img
-          src="/images/hero-bg.webp"
+          src="./images/hero-bg.webp"
           alt="Tuition Mafia Modern Classroom"
           className="scale-out"
         />
         <img
-          src="/images/big-hero-text.svg"
+          src="./images/big-hero-text.svg"
           alt="Tuition Mafia"
           className="title-logo fade-out"
         />
@@ -109,7 +109,7 @@ const Hero = () => {
 
       <div>
         <img
-          src="/images/big-hero-text.svg"
+          src="./images/big-hero-text.svg"
           alt="logo"
           className="size-full object-cover mask-logo"
         />
@@ -118,7 +118,7 @@ const Hero = () => {
       {/* Seamless overlay logo matching entrance-logo pixel-for-pixel */}
       <div className="fake-logo-wrapper pointer-events-none">
         <img
-          src="/images/big-hero-text.svg"
+          src="./images/big-hero-text.svg"
           alt="wrapper-logo"
           className="overlay-logo hero-brand-logo"
         />

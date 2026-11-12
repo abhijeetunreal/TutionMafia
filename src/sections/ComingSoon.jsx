@@ -3,7 +3,7 @@ const ComingSoon = () => {
     <section className="entrance-message">
       {/* Entrance Logo: perfectly matches overlay-logo via shared hero-brand-logo class */}
       <img
-        src="/images/big-hero-text.svg"
+        src="./images/big-hero-text.svg"
         alt="Tuition Mafia Logo"
         className="entrance-logo hero-brand-logo"
       />

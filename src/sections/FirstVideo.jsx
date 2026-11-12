@@ -60,7 +60,7 @@ const FirstVideo = () => {
     <section className="first-vd-wrapper">
       <div className="h-dvh">
         <video
-          src="/videos/output1.mp4"
+          src="./videos/output1.mp4"
           ref={videoRef}
           muted
           playsInline

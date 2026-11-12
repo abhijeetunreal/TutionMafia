@@ -37,10 +37,10 @@ const Masterminds = () => {
     <section className="masterminds-section" id="masterminds">
       <div className="flex flex-col gap-5 items-end img-box lg:w-1/2 ps-10 mt-96">
         <div className="masterminds-1">
-          <img src="/images/masterminds-1.webp" alt="Elite Syndicate Faculty" />
+          <img src="./images/masterminds-1.webp" alt="Elite Syndicate Faculty" />
         </div>
         <div className="masterminds-3">
-          <img src="/images/masterminds-3.webp" alt="Victory & Academic Success" />
+          <img src="./images/masterminds-3.webp" alt="Victory & Academic Success" />
         </div>
       </div>
 
@@ -57,7 +57,7 @@ const Masterminds = () => {
         </div>
 
         <div className="masterminds-2">
-          <img src="/images/masterminds-2.webp" alt="The Masterclass Workshop" />
+          <img src="./images/masterminds-2.webp" alt="The Masterclass Workshop" />
         </div>
 
         <p className="max-w-xl lg:ps-32 ps-10">

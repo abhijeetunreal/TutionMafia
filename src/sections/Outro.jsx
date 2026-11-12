@@ -22,7 +22,7 @@ const Outro = () => {
     <section className="final-message" id="contact">
       <div className="h-full col-center gap-8 md:gap-10 px-4 text-center">
         <img
-          src="/images/logo.webp"
+          src="./images/logo.webp"
           alt="Tuition Mafia Logo"
           className="md:w-72 w-52 object-contain drop-shadow-[0_10px_25px_rgba(230,32,46,0.6)]"
         />

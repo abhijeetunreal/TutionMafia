@@ -51,7 +51,7 @@ const SecondVideo = () => {
           muted
           playsInline
           preload="auto"
-          src="/videos/output2.mp4"
+          src="./videos/output2.mp4"
           className="size-full object-cover second-vd md:[object-position:15%_0%] [object-position:50%_center]"
         />
       </div>

@@ -89,7 +89,7 @@ const Navbar = () => {
             className="cursor-pointer"
           >
             <img
-              src="/images/nav-logo.svg"
+              src="./images/nav-logo.svg"
               alt="Tuition Mafia"
               className="h-10 md:h-11 object-contain"
             />
@@ -103,7 +103,7 @@ const Navbar = () => {
           aria-label="Open Navigation Menu"
         >
           <img
-            src="/images/menu.svg"
+            src="./images/menu.svg"
             alt="menu-svg"
             className="w-9 md:w-10"
           />
@@ -135,7 +135,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between pb-4">
           <div className="flex items-center gap-3.5">
             <img
-              src="/images/tution/mascot_student_light.png"
+              src="./images/tution/mascot_student_light.png"
               alt="Tuition Mafia"
               className="h-7 w-auto object-contain drop-shadow-[0_2px_8px_rgba(255,255,255,0.3)]"
             />
